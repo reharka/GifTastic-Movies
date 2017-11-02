@@ -1,0 +1,14 @@
+body {
+	background-color: floralwhite;
+}
+
+.header {
+	text-align: center;
+	border: 5px dotted;
+	background-color: white;
+}
+
+h1 {
+	font-family: 'Rozha One', serif;
+	font-size: 100px;
+}
